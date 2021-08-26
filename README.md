@@ -10,12 +10,12 @@
   <p align="center">
     This project is part of the Microverse curriculum in React module!
     <br />
-    <a href="https://github.com/rammazzoti2000/react_capstone"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/krish-shahh/PokeWeb"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/rammazzoti2000/react_capstone/issues">Report Bug</a>
+    <a href="https://github.com/krish-shahh/PokeWeb/issues">Report Bug</a>
     ·
-    <a href="https://github.com/rammazzoti2000/react_capstone/issues">Request Feature</a>
+    <a href="https://github.com/krish-shahh/PokeWeb/issues">Request Feature</a>
   </p>
 </p>
 
@@ -28,7 +28,6 @@
   * [Automated Test](#automated-test)
 * [Contributors](#contributors)
 * [Acknowledgements](#acknowledgements)
-* [License](#license)
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
@@ -127,7 +126,3 @@ Give a :star: if you like this project!
 [stars-url]: https://github.com/rammazzoti2000/react_capstone/stargazers
 [issues-shield]: https://img.shields.io/github/issues/rammazzoti2000/react_capstone.svg?style=flat-square
 [issues-url]: https://github.com/rammazzoti2000/react_capstone/issues
-
-## 📝 License
-
-This project is [MIT](https://opensource.org/licenses/MIT) licensed.
