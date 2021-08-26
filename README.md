@@ -30,7 +30,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-React capstone based on a catalog of statistics that is a browsable list of items and can be filtered and accessed the details of one item.
+PokeWeb based on a catalog of statistics that is a browsable list of items and can be filtered and accessed the details of one item.
 The WebApp it has two types of pages, the main one with the list of elements to display and the second one with a single element displaying relevant information about that object. Each page has a unique route within the Single Page Application.
 The project retrieves data from an API and stores it in the Redux Store. Based on that API it is possible to filter the data using a Filter stateless component.
 
