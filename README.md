@@ -38,23 +38,22 @@ The project retrieves data from an API and stores it in the Redux Store. Based o
 
 ### Built With
 This project was built using these technologies.
-* HTML/CSS
+* HTML
+* CSS
 * ReactJs
 * Redux
-* Heroku Buildpack
 * npm
 * ES6
 * Node.js
 * ESLint
 * StyleLint
 * GithubActions :muscle:
-* Atom :atom:
 
 <!-- INSTALLATION -->
 ## Usage
 
 To have this app on your pc, you need to:
-* [download](https://github.com/rammazzoti2000/react_capstone/archive/develop.zip) or clone this repo:
+* [download](https://github.com/krish-shahh/PokeWeb) or clone this repo:
   - Clone with SSH:
   ```
     git@github.com:rammazzoti2000/react_capstone.git
