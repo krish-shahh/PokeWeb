@@ -80,29 +80,16 @@ To have this app on your pc, you need to:
 ## Automated Test
   - `$ npm run test` - Launches the test runner in the interactive watch mode, see the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
- ## Walkthrough Video and Deployment (Heroku)
-https://www.loom.com/share/5860127540704697aba0d3dc360b97bd
-##
-
 ## Live Demo & Deployment
-The project has been deployed with [Heroku Buildpack for create-react-app](https://github.com/mars/create-react-app-buildpack#user-content-requires)
+The project has been deployed with Vercel
 
-[Heroku Live Demo Link](https://react-capstonejsx.herokuapp.com/) :point_left:
-
-<!-- CONTACT -->
-## Contributors
-
-👤 **Alexandru Bangau**
-
-- LinkedIn: [Alexandru Bangau](https://www.linkedin.com/in/alexandru-bangau/)
-- GitHub: [@rammazzoti2000](https://github.com/rammazzoti2000)
-- E-mail: bangau.alexandru@gmail.com
+[Live Demo Link](https://poke-web-two.vercel.app/) :point_left:
 
 ## :handshake: Contributing
 
 Contributions, issues and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/rammazzoti2000/react_capstone/issues).
+Feel free to check the [issues page](https://github.com/krish-shahh/PokeWeb/issues).
 
 ## Show your support
 
