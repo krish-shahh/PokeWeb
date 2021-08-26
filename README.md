@@ -59,7 +59,7 @@ To have this app on your pc, you need to:
   ```
   - Clone with HTTPS
   ```
-    https://github.com/rammazzoti2000/react_capstone.git
+     https://github.com/krish-shahh/PokeWeb.git
   ```
 
 * In the project directory, you can run:
