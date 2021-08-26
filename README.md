@@ -5,7 +5,7 @@
     <img src="src/assets/microverse.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">React&Redux --> [Pokemon Catalog]</h3>
+  <h3 align="center">React & Redux --> [Pokemon Catalog]</h3>
 
   <p align="center">
     This project is part of the Microverse curriculum in React module!
@@ -94,22 +94,3 @@ Feel free to check the [issues page](https://github.com/krish-shahh/PokeWeb/issu
 ## Show your support
 
 Give a :star: if you like this project!
-
-<!-- ACKNOWLEDGEMENTS -->
-## Acknowledgements
-* [Microverse](https://www.microverse.org/)
-* [The Odin Project](https://www.theodinproject.com/)
-* [React Documentation](https://reactjs.org/docs/getting-started.html)
-* [Heroku Documentation](https://devcenter.heroku.com/)
-* [Heroku Buildpack](https://github.com/mars/create-react-app-buildpack#user-content-requires)
-
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/rammazzoti2000/react_capstone.svg?style=flat-square
-[contributors-url]: https://github.com/rammazzoti2000/react_capstone/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/rammazzoti2000/react_capstone.svg?style=flat-square
-[forks-url]: https://github.com/rammazzoti2000/react_capstone/network/members
-[stars-shield]: https://img.shields.io/github/stars/rammazzoti2000/react_capstone.svg?style=flat-square
-[stars-url]: https://github.com/rammazzoti2000/react_capstone/stargazers
-[issues-shield]: https://img.shields.io/github/issues/rammazzoti2000/react_capstone.svg?style=flat-square
-[issues-url]: https://github.com/rammazzoti2000/react_capstone/issues
