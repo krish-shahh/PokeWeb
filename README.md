@@ -55,7 +55,7 @@ To have this app on your pc, you need to:
 * [download](https://github.com/krish-shahh/PokeWeb) or clone this repo:
   - Clone with SSH:
   ```
-    git@github.com:rammazzoti2000/react_capstone.git
+    git@github.com:krish-shahh/PokeWeb.git
   ```
   - Clone with HTTPS
   ```
