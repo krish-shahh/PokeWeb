@@ -8,7 +8,6 @@
   <h3 align="center">React & Redux --> [Pokemon Catalog]</h3>
 
   <p align="center">
-    This project is part of the Microverse curriculum in React module!
     <br />
     <a href="https://github.com/krish-shahh/PokeWeb"><strong>Explore the docs »</strong></a>
     <br />
